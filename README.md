@@ -2,6 +2,9 @@
 ![bg](./assets/blue-green-medium.svg)
 ![bgfr](./assets/bg-gif-fr-fr.gif)
 
+## Read More
+at https://medium.com/itnext/kubernetes-namespaces-the-secret-weapon-for-zero-risk-blue-green-deployments-5e59060a6267
+
 ## Quickstart
 1. Create Namespaces
 ```bash
